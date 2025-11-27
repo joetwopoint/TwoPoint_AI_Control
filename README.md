@@ -1,5 +1,10 @@
 # TwoPoint Development — AI Control
 
+This uses snippets from 
+https://github.com/Jordan2139/Calm-AI-V3
+https://www.lcpdfr.com/downloads/gta5mods/scripts/51788-realistic-traffic-ai/
+https://github.com/StonerIsh420/RemoveAICopsEMS
+
 FOR USE WITH BIG DADDY SIREN RESPONSE https://bigdaddyscripts.com/Products/View/2924/Siren-Response
 
 MUST REMOVE CALM-AI, REALISTIC AI TRAFFIC, AND REMOVE AI COPS, IF YOU USE THEM
