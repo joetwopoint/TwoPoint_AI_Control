@@ -115,8 +115,6 @@ Drop the twopoint_ai_control folder into your server’s resources/ directory.
 
 In your server.cfg, ensure this resource:
 
-cfg
-Copy code
 ensure twopoint_ai_control
 Remove or disable any other AI control / cop removal / AI handling resources that:
 
@@ -133,8 +131,6 @@ Restart your server.
 Configuration
 All configuration is done in:
 
-text
-Copy code
 twopoint_ai_control/config.lua
 Typical things you’ll find there (names may vary slightly depending on version):
 
