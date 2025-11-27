@@ -1,6 +1,6 @@
 # TwoPoint Development — AI Control
 
-This uses snippets from 
+This uses snippets from the following developers
 https://github.com/Jordan2139/Calm-AI-V3
 https://www.lcpdfr.com/downloads/gta5mods/scripts/51788-realistic-traffic-ai/
 https://github.com/StonerIsh420/RemoveAICopsEMS
